@@ -1,0 +1,7 @@
+# Source distribution files.
+include LICENSE
+include README.rst
+include requirements.pip requirements-dev.pip
+include setup.py setup.cfg
+
+exclude test/*
