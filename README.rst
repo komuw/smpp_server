@@ -7,4 +7,4 @@ An python library for SMPP v3.4
 
 To get started::
 
-    $ pip install 
+    $ pip install smpp_server

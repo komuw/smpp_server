@@ -8,7 +8,7 @@ def read_file(filename):
 
 setup(
     name="smpp_server",
-    version="0.1.0",
+    version="0.1.1",
     url='https://github.com/komuW/smpp_server',
     license='BSD',
     description="Python SMPP Library",
